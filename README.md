@@ -1,6 +1,10 @@
 # ![cartao-de-credito2](https://user-images.githubusercontent.com/92763302/163711799-70ce73b1-d140-42c9-9dc2-f6e2658b0d99.png) Developer Bank
 Landing Page Developer Bank
 
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
+
 ![desktop](https://user-images.githubusercontent.com/92763302/163712081-deb1cbf7-f3dc-4d1c-9d65-9b86b836e672.png)
 > Página construida com o intuido de testar minhas habilidades em flex-box, posicionamento dos elementos e responsividade
 
@@ -17,8 +21,5 @@ As seguintes ferramentas foram usadas na construção da página:
 - [ ] Cadastro de conta
 - [ ] Login de conta
 - [ ] Funcionalidades para a barra de navegação
-<h4 align="center"> 
-	🚧  Developer Bank 🚀 Em construção...  🚧
-</h4>
 
 Feito com ❤️ por Eduarda Isabelle👋🏽 Entre em contato!
