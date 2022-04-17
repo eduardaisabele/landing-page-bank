@@ -15,6 +15,7 @@ body {
     min-width: 100vw;
     padding: 25px 8%; 
 }
+
 header {
     display: flex;
     justify-content: space-between;
@@ -33,7 +34,7 @@ header nav .navegacao {
     padding: 0 12px;
 }
 
-header nav .navegacao li a{
+header nav .navegacao li a {
     color: #000;
     padding: 0 12px;
 }
@@ -43,7 +44,7 @@ header .cadastro {
     align-items: center;
 }
 
-header .cadastro .login, .sign-up{
+header .cadastro .login, .sign-up {
     margin: 0 3px;
     padding: 0 20px;
     border-radius: 10px;
@@ -88,6 +89,7 @@ main .text-left .paragrafo {
     width: 80%;
     max-width: 55vw;
 }
+
 main .text-left .btn-cadastro .iniciar, .free {
     border-radius: 10px;
     margin: 20px 3px 2px 0;
@@ -99,7 +101,6 @@ main .text-left .btn-cadastro .iniciar, .free {
     font-weight: 400;
     transition: all 0.3s ease-in-out;
 }
-
 
 main .text-left .btn-cadastro .iniciar {
     background-color: #35345f;
@@ -130,5 +131,5 @@ footer a:hover {
     text-decoration: underline;
 }
 /* 
-!centralizar o footer,dar funcionalidade barra de navegação, botoes de login...
+!centralizar o footer,dar funcionalidades a barra de navegação, botoes de login...
 */
