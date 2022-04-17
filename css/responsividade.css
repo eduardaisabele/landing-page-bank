@@ -1,0 +1,59 @@
+@media only screen and (max-width: 980px) {
+    main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    main .text-left .btn-cadastro .iniciar, .free {
+        height: 6vh;
+        border-radius: 11px;
+    }
+}
+
+@media only screen and (max-width: 770px) {
+    header .cadastro {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    header .cadastro .login, .sign-up {
+        height: 4vh;
+        width: 15vw;
+        border-radius: 11px;
+    }
+    
+    header .cadastro .login {
+        margin: 2px 0 2px 0;
+    }
+
+    header nav .navegacao li a i {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 630px) {
+    header {
+        display: flex;
+        flex-direction: column;
+    }
+
+    header .cadastro {
+        display: flex;
+        flex-direction: row;
+    }
+
+    header .cadastro .login, .sign-up {
+        width: 22%;
+        font-size: 12px;
+    }
+    
+    main .text-left h1 {
+        font-size: 30px;
+    }
+
+    main .text-left p {
+        font-size: 16px;
+    }
+}
